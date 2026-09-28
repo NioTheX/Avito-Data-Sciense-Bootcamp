@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+catboost_info/
+.jupyter-runtime/
+
+# Исходные файлы берутся из архива задания.
+bot_detection_challenge/data/
+bot_detection_challenge/sample_submission.csv
+
+# Результаты создаются при запуске ноутбука.
+artifacts/
+submission.csv
